@@ -20,6 +20,10 @@ h1 {
     font-size: 36px;
 }
 
+.blended {
+    color: #999999;
+}
+
 .minor-section {
     border: 2px solid black;
 }
